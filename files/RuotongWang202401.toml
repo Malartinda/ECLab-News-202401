@@ -1,0 +1,37 @@
+[editor]
+name = "Ruotong Wang"
+degree = "Undergraduate, 2020"
+
+[article.1]
+title = "Who speaks up when harassment is in the air? A within-person investigation of ambient harassment and voice behavior at work."
+doi = " https://doi.org/10.1037/apl0001131"
+authors = "Gabriel, A. S., Chawla, N., Rosen, C. C., Lee, Y. E., Koopman, J., & Wong, E. M. "
+journal = "Journal of Applied Psychology"
+publish = "Volume 109, Issue , p39-60, Jan 2024"
+category = "Affect"
+summary = "通过一项实验调查（研究1）和一项经验抽样研究（研究2），发现暴露于环境骚扰与恐惧和愤怒感呈正相关。在研究2中，进一步揭示了与环境骚扰相关的不同行为后果，发现目睹环境骚扰后的愤怒与声音呈正相关。"
+abstract = "It is clear that sexual harassment has a profound impact on the victims who are targets of these egregious behaviors. Comparably less is known, however, about how other members of the organization react affectively and behaviorally when these acts transpire, and who has stronger reactions to such events. In the current research, we draw from the sexual harassment and vicarious mistreatment literatures to develop a theoretical model that considers how bystanders react behaviorally to ambient harassment—the experience of overhearing sexist and disparaging gender-related comments without necessarily being the direct target of such remarks—by enacting various types of voice behaviors at work via feelings of fear and anger. We also explore whether certain work conditions—namely an organization’s tolerance for sexual harassment—attenuate such reactions, and how gender of the witness to ambient harassment may shape the effects. Across an experimental investigation (Study 1) and an experience sampling study (Study 2), we find that exposure to ambient harassment is positively related to feelings of fear and anger. In Study 2, we further unpack the differential behavioral consequences associated with ambient harassment, finding that while anger is positively related to voice after witnessing ambient harassment, fear negatively contributed to voice behaviors at work. Interestingly, these effects were further exacerbated for employees who worked in an organization tolerant of sexual harassment and for men (vs. women). Combined, our results shed light on how, and when, employees can feel empowered to enact voice behaviors after experiencing ambient harassment. "
+keywords = "sexual harassment, gender harassment, affect, voice, gender"
+
+[article.2]
+title = "Colorfulness influences perceptions of valence and arousal."
+doi = "https://doi.org/10.1037/xge0001484"
+authors = "Pazda, A. D., Thorstenson, C. A., & Fetterman, A. K. "
+journal = "Journal of Experimental Psychology: General"
+publish = "Volume 153, Issue 1, Jan 2024"
+category = "Emotion"
+summary = "研究通过操纵照片中不同效价和/或唤醒度的颜色，拓宽了产生颜色-情感关联的媒介，结果表明，色度可以独立于色调或亮度来传达与情绪相关的信息。"
+abstract = "Research on color–emotion associations provides evidence that hue, chroma, and lightness relate to various emotional experiences. Most of this research has assessed these relationships via isolated color swatches while confounding color dimensions. We broadened the medium in which color–emotion associations were made by manipulating color in photographs varying in valence and/or arousal, and we solely focused on the chroma dimension. In Experiment 1, participants perceived neutral and positive-valence photographs to be happier and more arousing when displayed chromatically, relative to achromatically. In Experiment 2, participants increased the chroma content of photographs to make them appear maximally happy, and they decreased the chroma content of photographs to make them appear maximally sad. In Experiment 3, participants altered the chroma content of photographs to their preferred levels, with positive-valence photographs containing the most chroma, followed by neutral, then negative-valence photographs. In Experiment 4, participants increased the chroma content of photographs to make them appear maximally positive or arousing, and they decreased chroma to make photographs appear maximally negative or calming. This pattern was similar regardless of the initial valence/arousal content of the images. These results indicate that chroma may convey emotion-relevant information independent of hue or lightness. "
+keywords = "color, emotion, arousal, valence, chroma"
+
+
+[article.3]
+title = "More laws for pauses: Replication and generalization."
+doi = "https://doi.org/10.1037/xlm0001280"
+authors = "Mezaraups, T. M., & Gilden, D. L.  "
+journal = "Journal of Experimental Psychology: Learning, Memory, and Cognition,"
+publish = "Volume 50, Issue 1, Jan 2024"
+category = "Vioce"
+summary = "研究报告了对61名运动员录音采访中停顿持续时间的分析结果，发现了运动员体型大小与停顿长短之间的存在关系——体型较大的人停顿时间更长"
+abstract = "The basic timescales governing animal life are generally determined by body size. Pauses in naturally occurring human speech were investigated to determine if pause timescales are also sensitive to body size. Reported is an analysis of pause duration allometry in recorded interviews of 61 athletes. Pauses were divided into three classes based on whether they occurred during fluid speech or whether they preceded or followed a filled pause (i.e., “um”). Allometric laws relating body size to pause size were found for all three classes—larger people take longer pauses. The derived allometric exponents were used to evaluate a theory of how people experience the passage of time. The theory associates the experience of time passage with the distal flow of time through the mathematics of bounded exponential growth. Nonlinearities inherent in the theory are shown to predict, in detail, the way body size interacts with linguistic context in the deployment of pauses. The theory provides a meaningful framework for understanding how time is experienced as a felt quantity and how pauses are negotiated in everyday speech.  "
+keywords = "speech production, speech perception, timing"
