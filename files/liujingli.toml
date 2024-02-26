@@ -1,0 +1,26 @@
+[editor]
+name = "jingli Liu"
+degree = "Undergraduate, 2021"
+
+[article.1]
+title = "Emotion tracking (vs. reporting) increases the persistence of positive (vs. negative) emotions"
+doi = "https://doi.org/10.1016/j.jesp.2023.104556"
+authors = "Reihane Boghrati, Marissa A. Sharif, Siavash Yousefi, Arsalan Heydarian"
+journal = "Journal of Experimental Social Psychology"
+publish = "Volume 110, January 2024" 
+category = "Emotion" 
+summary = "本文研究了跟踪日常情绪对情绪和主观幸福感的影响。结果表明，跟踪人们的情绪具有不对称的持续效应，与消极情绪相比，积极情绪更有可能持续到第二天，揭示了跟踪情绪对改善消费者心理健康的重要性和益处" 
+abstract = "There is an emerging use of devices and wearables for tracking a variety of daily behaviors such as sleep quality and calorie counts. While tracking such behavior has proven to be beneficial for physical health, less is known about the benefits of tracking mental health. This paper examines the impact of tracking daily emotions on emotional and subjective well-being. Two longitudinal studies (N = 1025) show that tracking people's emotions (i.e., reporting and reminding participants of their past emotions) has an asymmetric persistence effect, such that positive (but not negative) emotions are more likely to linger the next day. The results shed light on the importance and benefits of tracking emotions for improving consumers' mental health."
+keywords = "Valence, Emotion, Affect, Tracking, Persistence, Mental health" 
+
+[article.2]
+title = "Empathy for the pain of others: Sensitivity to the individual, not to the collective"
+doi = "https://doi.org/10.1016/j.jesp.2023.104561"
+authors = "Tom Gordon-Hecker, Ilan Yaniv, Anat Perry, Shoham Choshen-Hillel"
+journal = "Journal of Experimental Social Psychology"
+publish = "Volume 110, January 2024" 
+category = "Emotion" 
+summary = "本研究旨在确定对群体的移情反应背后的心理机制。本文认为移情是一个以自我为中心的过程，研究表明同理心对群体中个体成员的损失（或收益）高度敏感，而对群体中的人数则不那么敏感。" 
+abstract = "Groups of people in pain evoke our empathic reactions. Yet how does one empathize with a group? Here, we aim to identify psychological mechanisms that underlie empathic reactions to groups. We theorize that because empathy is an egocentric process routed through the self, people are strongly attuned to the impact on each individual, and less so to the number of individuals affected. In five pre-registered experiments, involving different types of stimuli and valences of the outcomes, we repeatedly find that participants' level of empathy depends on the pain experienced by each individual, but not on the number of individuals in the group. The experiments support our hypothesis. They also add to alternative explanations such as psychophysical numbing and strategic regulation of negative emotions, providing valuable insights into the phenomenon of scope insensitivity. The findings also bear implications for the ongoing debate on the role of empathy in public policy decisions."
+keywords = "Empathy, Emotion, Perspective taking, Scope insensitivity" 
+
