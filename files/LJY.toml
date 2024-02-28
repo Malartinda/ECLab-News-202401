@@ -1,0 +1,14 @@
+[editor]
+name = "Jiaying LU"
+degree = "Undergraduate, 2021"
+
+[article.1]
+title = "Can Natural Speech Prosody Distinguish Autism Spectrum Disorders? A Meta-Analysis"
+doi = "https://doi.org/10.3390/bs14020090"
+authors = "Wen Ma, Lele Xu, Hao Zhang and Shurui Zhang"
+journal = "Behavioral Sciences"
+publish = "Volume 14, Issue 2, 26 January 2024"
+category = "prosody"
+summary = "自然语音韵律已经得到声学分析并应用于机器学习，用于识别患有自闭症谱系障碍（ASD）的个体。经过元分析的经验研究发现，音高相关参数在ASD个体和正常发育个体之间存在显著差异，且表明自然语音韵律对于ASD检测具有一定效力和准确性。"
+abstract = "Natural speech plays a pivotal role in communication and interactions between human beings. The prosody of natural speech, due to its high ecological validity and sensitivity, has been acoustically analyzed and more recently utilized in machine learning to identify individuals with autism spectrum disorders (ASDs). In this meta-analysis, we evaluated the findings of empirical studies on acoustic analysis and machine learning techniques to provide statistically supporting evidence for adopting natural speech prosody for ASD detection. Using a random-effects model, the results observed moderate-to-large pooled effect sizes for pitch-related parameters in distinguishing individuals with ASD from their typically developing (TD) counterparts. Specifically, the standardized mean difference (SMD) values for pitch mean, pitch range, pitch standard deviation, and pitch variability were 0.3528, 0.6744, 0.5735, and 0.5137, respectively. However, the differences between the two groups in temporal features could be unreliable, as the SMD values for duration and speech rate were only 0.0738 and −0.0547. Moderator analysis indicated task types were unlikely to influence the final results, whereas age groups showed a moderating role in pooling pitch range differences. Furthermore, promising accuracy rates on ASD identification were shown in our analysis of multivariate machine learning studies, indicating averaged sensitivity and specificity of 75.51% and 80.31%, respectively. In conclusion, these findings shed light on the efficacy of natural prosody in identifying ASD and offer insights for future investigations in this line of research."
+keywords = "prosody; autism; machine learning; natural speech"
