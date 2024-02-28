@@ -1,43 +1,47 @@
 [editor] 
-name = "Xintong Xie" # 格式类似于 Shuoan Li 
-degree = "Undergraduate, 2020" # 格式类似于 Undergraduate, 2022 
-[article.1] # 罗马数字指定文献编号
+name = "Xintong Xie" 
+degree = "Undergraduate, 2020" 
+
+[article.1] 
 title = "Comparative Culturology and Cross-Cultural Psychology: How Comparing Societal Cultures Differs From Comparing Individuals' Minds Across Cultures" 
-doi = "https://doi.org/10.1177/00220221231220027" # 以 https://doi.org/开头
+doi = "https://doi.org/10.1177/00220221231220027" 
 authors = "Michael Minkov, Vivian L. Vignoles4, Christian Welzel5, Plamen Akaliyski, Michael Harris Bond7, Anneli Kaasa, and Peter B. Smith" 
 journal = "Journal of Cross-Cultural Psychology" 
-publish = "January 24, 2024 " # 如发发布年份，期号，卷号，页码
-category = "Cross-culture" # Emotion, Face, Cross-culture 等，注意首字母大写
-summary = "作者发现，集体主义（与个人主义相比）国家为男性规定了相对更多的公共特征。男性处方比女性处方更倾向于核心文化价值观。" # 中文的概括
+publish = "January 24, 2024 " 
+category = "Cross-culture" 
+summary = "作者发现，集体主义（与个人主义相比）国家为男性规定了相对更多的公共特征。男性处方比女性处方更倾向于核心文化价值观。" 
 abstract = "Cross-cultural research in social and behavioral sciences has expanded hugely over the past 50 years, but progress is currently hampered by a lack of appreciation of the profoundly differing principles and goals of two distinct traditions. The first is the main variant of cross-cultural psychology (CCP), focusing on how culture shapes individual psychological functioning. The second was pioneered by Hofstede. It studies societal differences, and we name it comparative culturology” (CC). We explain how these two paradigms differ. CCP is grounded in psychology and typically looks for unobservable  ndividual-level constructs, which supposedly exist independently of their measurement, to provide understanding of individual differences as affected by culture. CC is an interdisciplinary field whose roots and impact span sociology, anthropology, political science, economics, management studies, psychology, and beyond. CC measures cultural dimensions as group-level constructs created by researchers, which are best understood as ecological manifolds: conglomerates of conceptually and statistically associated variables (not necessarily held together by a single underlying factor) that collectively explain national (and other group) differences. Given these paradigmatic distinctions, the two fields need not, and cannot, use the same validation methods. They should co-exist and collaborate based on mutual appreciation of their differences, without attempts by either field to impose its idiosyncrasies on the other." 
-keywords = "culture, comparative culturology, cross-cultural psychology, latent factors, manifold construct, reflective versus formative construct" # 用英文逗号分隔
-[article.2] # 参照 article.1 
+keywords = "culture, comparative culturology, cross-cultural psychology, latent factors, manifold construct, reflective versus formative construct" 
+
+[article.2] 
 title = "Comparative Culturology and Cross-Cultural Psychology: How Comparing Societal Cultures Differs From Comparing Individuals' Minds Across Cultures" 
-doi = "https://doi.org/10.1177/00220221231220013" # 以 https://doi.org/开头
+doi = "https://doi.org/10.1177/00220221231220013" 
 authors = "Michael Minkov, Vivian L. Vignoles, Christian Welzel, Plamen Akaliyski, Michael Harris Bond, Anneli Kaasa, Peter B. Smith" 
 journal = "Journal of Cross-Cultural Psychology" 
-publish = "January 29, 2024" # 如发发布年份，期号，卷号，页码
-category = "Cross-culture" # Emotion, Face, Cross-culture 等，注意首字母大写
-summary = "作者解释了“跨文化心理学”（CCP）和“比较文化学”（CC）两种范式的不同。作者人文，这两个领域不需要也不能使用相同的验证方法。而应该在相互理解差异的基础上共存和合作。" # 中文的概括
+publish = "January 29, 2024" 
+category = "Cross-culture" 
+summary = "作者解释了“跨文化心理学”（CCP）和“比较文化学”（CC）两种范式的不同。作者认为，这两个领域不需要也不能使用相同的验证方法。而应该在相互理解差异的基础上共存和合作。" 
 abstract = "Cross-cultural research in social and behavioral sciences has expanded hugely over the past 50 years, but progress is currently hampered by a lack of appreciation of the profoundly differing principles and goals of two distinct traditions. The first is the main variant of cross-cultural psychology (CCP), focusing on how culture shapes individual psychological functioning. The second was pioneered by Hofstede. It studies societal differences, and we name it “comparative culturology” (CC). We explain how these two paradigms differ. CCP is grounded in psychology and typically looks for unobservable individual-level constructs, which supposedly exist independently of their measurement, to provide understanding of individual differences as affected by culture. CC is an interdisciplinary field whose roots and impact span sociology, anthropology, political science, economics, management studies, psychology, and beyond. CC measures cultural dimensions as group-level constructs created by researchers, which are best understood as ecological manifolds: conglomerates of conceptually and statistically associated variables (not necessarily held together by a single underlying factor) that collectively explain national (and other group) differences. Given these paradigmatic distinctions, the two fields need not, and cannot, use the same validation methods. They should co-exist and collaborate based on mutual appreciation of their differences, without attempts by either field to impose its idiosyncrasies on the other." 
-keywords = "culture, comparative culturology, cross-cultural psychology, latent factors, manifold construct, reflective versus formative construct" # 用英文逗号分隔
+keywords = "culture, comparative culturology, cross-cultural psychology, latent factors, manifold construct, reflective versus formative construct" 
+
 [article.3] 
 title = "Cross-Cultural Differences in Perception of Facial Trustworthiness Based on Geometric Morphometric Morphs" 
-doi = "https://doi.org/10.1177/00220221231220013" # 以 https://doi.org/开头
+doi = "https://doi.org/10.1177/00220221231220013" 
 authors = "Victoria V. Rostovtseva, Marina L. Butovskaya, Anna A. Mezentseva, Nadezhda B. Dashieva, Anna A. Korotkova, Alexander Kavina, Mewa Singh" 
 journal = "Journal of Cross-Cultural Psychology" 
-publish = "January 12, 2024" # 如发发布年份，期号，卷号，页码
-category = "Cross-culture, Face" # Emotion, Face, Cross-culture 等，注意首字母大写
-summary = "作者该研究探讨了基于面部特征的可信度感知的跨文化差异。在所有样本中，“值得信赖”的男性肖像的可信度评分明显高于“不值得信赖”的男性肖像。随着人群之间的地理和遗传距离的增加，感知的可信度以及肖像判断的一致性显着下降。" # 中文的概括
+publish = "January 12, 2024" 
+category = "Cross-culture, Face" 
+summary = "该研究探讨了基于面部特征的可信度感知的跨文化差异。在所有样本中，“值得信赖”的男性肖像的可信度评分明显高于“不值得信赖”的男性肖像。随着人群之间的地理和遗传距离的增加，感知的可信度以及肖像判断的一致性显着下降。" 
 abstract = "We report on an experimental study that explores cross-cultural differences in perception of trustworthiness based on facial traits. In the first part of the experiment, individual male and female neutral photographs of Buryats (Mongolian people of Eastern Siberia) were rated on trustworthiness by men and women from the same population. The trustworthy-looking facial traits were investigated by means of geometric morphometrics, and analysis of the facial action units using artificial neural network (FaceReader). Significant associations between facial traits and perceived trustworthiness were revealed only for male photographs rated by men. Facial shape pattern along trustworthy–untrustworthy vector corresponded to the facial femininity-masculinity vector for Buryats, as well as to the positive-negative vector of the emotional connotation of the neutral facial shape. “Untrustworthy” facial shape was characterized by relatively narrower lower jaw, lower set eyebrows, as well as a lower position of the “Brow Lowerer” facial action unit—a frown. In the second part of the experiment, two geometric morphometric morphs, representing “trustworthy” and “untrustworthy” Buryat male facial shapes, were judged on trustworthiness by male representatives of Buryat, Tuvan (Mongolian people of Southern Siberia), Russian, Indian, and East African (Tanzanians) cultures. The results revealed that in all studied samples the “trustworthy” male portrait was rated significantly higher on trustworthiness than “untrustworthy” one. However, perceived trustworthiness, and agreement of portrait judgments with those of Buryats significantly declined with geographic and genetic distance between populations." 
-keywords = " trustworthiness, facial shape, cross-cultural studies, geometric morphometrics, FaceReader, facial action units, masculinity" # 用英文逗号分隔
+keywords = " trustworthiness, facial shape, cross-cultural studies, geometric morphometrics, FaceReader, facial action units, masculinity" 
+
 [article.4] 
 title = "Affective valence does not reflect progress prediction errors in perceptual decisions" 
-doi = "https://doi.org/10.3758/s13415-023-01147-8" # 以 https://doi.org/开头
+doi = "https://doi.org/10.3758/s13415-023-01147-8" 
 authors = "Alan Voodla, Andero Uusberg, Kobe Desender" 
 journal = "Cognitive, Affective, & Behavioral Neuroscience" 
-publish = "Volume 24, pages 60–71, (2024)" # 如发发布年份，期号，卷号，页码
-category = "Emotion" # Emotion, Face, Cross-culture 等，注意首字母大写
-summary = "情感效价和强度是情感体验的核心。有人提出，情感反映了预期状态和实际状态之间的预测误差，比预期更好/更差的差异会导致积极/消极的情感。作者通过经验和计算来评估预期进展和实际进展之间的差异对感知决策的影响。作者发现，尽管情感对预期进度和实际进度都很敏感，但它并不反映进度预测误差。" # 中文的概括
+publish = "Volume 24, pages 60–71, (2024)" 
+category = "Emotion" 
+summary = "情感效价和强度是情感体验的核心。有人提出，情感反映了预期状态和实际状态之间的预测误差，比预期更好/更差的差异会导致积极/消极的情感。作者通过经验和计算来评估预期进展和实际进展之间的差异对感知决策的影响。作者发现，尽管情感对预期进度和实际进度都很敏感，但它并不反映进度预测误差。" 
 abstract = "However, whether the same principle applies to progress prediction errors remains unclear. We empirically and computationally evaluate the hypothesis that affect reflects the difference between expected and actual progress in forming a perceptual decision. We model affect within an evidence accumulation framework where actual progress is mapped onto the drift-rate parameter and expected progress onto an expected drift-rate parameter. Affect is computed as the difference between the expected and actual amount of accumulated evidence. We find that expected and actual progress both influence affect, but in an additive manner that does not align with a prediction error account. Our computational model reproduces both task behavior and affective ratings, suggesting that sequential sampling models provide a promising framework to model progress appraisals. These results show that although affect is sensitive to both expected and actual progress, it does not reflect the computation of a progress prediction error." 
-keywords = "Affect generation, Perceptual decisions, Evidence accumulation" # 用英文逗号分隔
+keywords = "Affect generation, Perceptual decisions, Evidence accumulation" 
